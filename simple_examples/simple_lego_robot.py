@@ -1,13 +1,10 @@
 #!/usr/bin/env python3
 
-"""
-File desc.
 ##########################
 # Title: Lego Robot Model
 # By:    Elisabeth Reid
 # Date:  2019
 ##########################
-"""
 
 import ccm
 #log=ccm.log(html=True)
